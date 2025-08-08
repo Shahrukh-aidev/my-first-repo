@@ -1,1 +1,1 @@
-Line from conflict branch
+Conflict branch edit for conflict
